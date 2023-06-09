@@ -38,10 +38,6 @@ To run the K-Means Clustering algorithm on your own dataset, follow these steps:
 
 2. Install the required dependencies. You can use the following command:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. Prepare your dataset.
 
    - Ensure that your dataset is in a suitable format (e.g., a CSV file).
